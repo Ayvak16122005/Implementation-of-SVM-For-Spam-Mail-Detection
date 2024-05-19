@@ -91,6 +91,7 @@ print(accuracy)
 
 ![alt text](<Screenshot 2024-05-10 234225.png>)
 
+
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
 
