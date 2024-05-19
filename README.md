@@ -81,15 +81,26 @@ print(accuracy)
 
 ## Output:
 
-![alt text](<Screenshot 2024-05-10 234159.png>)
+## Data.head()
 
-![alt text](<Screenshot 2024-05-10 234206.png>)
+![image](https://github.com/22009150/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118708624/fe0b7f7f-83fe-4a2f-92cf-6ff2d9fc10dc)
 
-![alt text](<Screenshot 2024-05-10 234213.png>)
+## Data.info()
 
-![alt text](<Screenshot 2024-05-10 234221.png>)
+![image](https://github.com/22009150/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118708624/12d98c81-9143-4867-bfa8-a21824dd384c)
 
-![alt text](<Screenshot 2024-05-10 234225.png>)
+## Data.innull().sum()
+
+![image](https://github.com/22009150/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118708624/189a779a-8a86-4162-9097-190a187dedd5)
+
+## y_pred:
+
+![image](https://github.com/22009150/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118708624/15ee7319-a90a-419a-925a-630f98ad29cb)
+
+## Accuracy:
+
+![image](https://github.com/22009150/Implementation-of-SVM-For-Spam-Mail-Detection/assets/118708624/b5ab93d7-ca77-4de7-9bf1-5194b0ab4666)
+
 
 
 ## Result:
