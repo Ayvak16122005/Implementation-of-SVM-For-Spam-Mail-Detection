@@ -1,6 +1,5 @@
-# EX 09: Implementation-of-SVM-For-Spam-Mail-Detection
+#  Implementation-of-SVM-For-Spam-Mail-Detection
 
-## DATE:
 
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
@@ -41,11 +40,11 @@ Data Loading and Exploration:
 
 ## Program:
 ```python
-/*
+
 Program to implement the SVM For Spam Mail Detection..
 Developed by: KAVYA T
 RegisterNumber:  2305003004
-*/
+
 import chardet
 file='spam.csv'
 with open(file,'rb') as rawdata:
